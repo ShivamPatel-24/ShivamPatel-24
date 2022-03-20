@@ -1,4 +1,4 @@
-[![MasterHead](https://www.spiria.com/site/assets/files/4594/banner_roi.-large.jpg)](https://rishavchanda.io)
+[![MasterHead](https://www.spiria.com/site/assets/files/4594/banner_roi.-large.jpg)]
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1><br>
 <h3 align="center">A Computer Science student at Clemson University.</h3>
 <br>
