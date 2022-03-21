@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1><br>
 <h3 align="center">A Computer Science student at Clemson University.</h3>
 <br>
-<img align="right" alt="coding" width="350" border-radius="20px" height="250" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
+<img align="right" alt="coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="350" style="border-radius:20px" height="250" />
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Python, React** and going to learn **Mobile App dev.**
 
-- 🤝 I’m am going to work on **Lost and Found App project**
+- 🔭 I’m going to work on **Lost and Found App project**
 
 - 📫 How to reach me **spatel8@g.clemson.edu**
 
