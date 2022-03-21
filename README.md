@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python and React**
 
-- 🤝 I’m looking for help with **Lost and Found App**
+- 🤝 I’m am going to work on **Lost and Found App project**
 
 - 📫 How to reach me **spatel8@g.clemson.edu**
 
