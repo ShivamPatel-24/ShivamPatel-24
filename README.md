@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shivam Patel</h1><br>
+<h1 align="center">Hello There! I'm Shivam Patel</h1><br>
 <h3 align="center">A Computer Science student at Clemson University.</h3>
 <br>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="350" style="border-radius:20px" height="250" />
